@@ -3,7 +3,7 @@ import { createApp } from "vue";
 import { App, router } from "./app";
 import store from "./store";
 
-import "./registerServiceWorker";
+import "./register-service-worker";
 
 createApp(App)
   .use(store)
