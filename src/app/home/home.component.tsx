@@ -1,7 +1,7 @@
 import { defineComponent } from "vue";
 
-import Logo from "@/app/shared/assets/images/logo.png";
-import HelloWorld from "@/app/shared/components/hello-world/hello-world.component.vue";
+import Logo from "@app/shared/assets/images/logo.png";
+import HelloWorld from "@app/shared/components/hello-world/hello-world.component.vue";
 
 export default defineComponent({
   name: "Home",
