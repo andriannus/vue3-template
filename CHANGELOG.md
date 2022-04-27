@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.2](https://github.com/andriannus/vue3-template/compare/v0.1.1...v0.1.2) (2022-04-27)
+
+
+### Code Refactoring
+
+* lint some files with new rules ([3041294](https://github.com/andriannus/vue3-template/commit/3041294242fc7233961dbfdecee5f12e451febc0))
+* prefer use `.js` for some files ([966382c](https://github.com/andriannus/vue3-template/commit/966382ccfb81d62c36a11c0075623b8eb7f92918))
+
+
+### Others
+
+* init `package-lock.json` ([c0c028b](https://github.com/andriannus/vue3-template/commit/c0c028b398d70f6c7abaf3a83ad8a8890fa7d400))
+* update `LICENSE` ([4e00850](https://github.com/andriannus/vue3-template/commit/4e008501a7eb55770d18999bbde0a07a8a7742cd))
+* upgrade TypeScript ([315115e](https://github.com/andriannus/vue3-template/commit/315115e0e874f62ecfb9273c59f791b44df1cabb))
+
 ### 0.1.1 (2021-02-28)
 
 
